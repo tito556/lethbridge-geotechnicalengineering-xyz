@@ -1,0 +1,43 @@
+# Geotechnicalengineering — Lethbridge
+
+> Geotechnical engineering services in Lethbridge, Canada.
+
+## Services
+- [Anchors](https://lethbridge.geotechnicalengineering.xyz/anchors/)
+- [Atterberg Limits](https://lethbridge.geotechnicalengineering.xyz/atterberg-limits/)
+- [Cpt Test](https://lethbridge.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://lethbridge.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://lethbridge.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://lethbridge.geotechnicalengineering.xyz/excavations/)
+- [Flexible Pavement](https://lethbridge.geotechnicalengineering.xyz/flexible-pavement/)
+- [Footings](https://lethbridge.geotechnicalengineering.xyz/footings/)
+- [Foundations](https://lethbridge.geotechnicalengineering.xyz/foundations/)
+- [Geophysics](https://lethbridge.geotechnicalengineering.xyz/geophysics/)
+- [Grain Size](https://lethbridge.geotechnicalengineering.xyz/grain-size/)
+- [Ground Improvement](https://lethbridge.geotechnicalengineering.xyz/ground-improvement/)
+- [Grouting](https://lethbridge.geotechnicalengineering.xyz/grouting/)
+- [In Situ Permeability](https://lethbridge.geotechnicalengineering.xyz/in-situ-permeability/)
+- [Investigation](https://lethbridge.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://lethbridge.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://lethbridge.geotechnicalengineering.xyz/laboratory/)
+- [Liquefaction](https://lethbridge.geotechnicalengineering.xyz/liquefaction/)
+- [Mat Foundations](https://lethbridge.geotechnicalengineering.xyz/mat-foundations/)
+- [Piles](https://lethbridge.geotechnicalengineering.xyz/piles/)
+- [Plate Load Test](https://lethbridge.geotechnicalengineering.xyz/plate-load-test/)
+- [Resistivity](https://lethbridge.geotechnicalengineering.xyz/resistivity/)
+- [Retaining Walls](https://lethbridge.geotechnicalengineering.xyz/retaining-walls/)
+- [Road Geotechnics](https://lethbridge.geotechnicalengineering.xyz/road-geotechnics/)
+- [Seismic](https://lethbridge.geotechnicalengineering.xyz/seismic/)
+- [Seismic Isolation](https://lethbridge.geotechnicalengineering.xyz/seismic-isolation/)
+- [Slopes](https://lethbridge.geotechnicalengineering.xyz/slopes/)
+- [Spt Drilling](https://lethbridge.geotechnicalengineering.xyz/spt-drilling/)
+- [Stone Columns](https://lethbridge.geotechnicalengineering.xyz/stone-columns/)
+- [Test Pits](https://lethbridge.geotechnicalengineering.xyz/test-pits/)
+- [Vibrocompaction](https://lethbridge.geotechnicalengineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://lethbridge.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Lethbridge, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
